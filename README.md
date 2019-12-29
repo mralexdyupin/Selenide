@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gc4x395vkq5dvigp?svg=true)](https://ci.appveyor.com/project/mralexdyupin/selenide)
+[![Build status](https://ci.appveyor.com/api/projects/status/gyyxjp1ld50h2h83?svg=true)](https://ci.appveyor.com/project/mralexdyupin/selenide)
